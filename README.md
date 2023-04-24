@@ -1,4 +1,3 @@
-higoreller/README.md
 
 - 👋 Hi, I’m Higor Eller
 - 📖 I'm a postgraduate in machine learning
