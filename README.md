@@ -2,5 +2,5 @@
 - 👋 Hi, I’m Higor Eller
 - 📖 I have a postgraduate degree in machine learning.
 - 📖 I have a degree in Chemical engineering and I'm doing a second degree in Software Engineering
-- 🌱 I’m currently learning Machine Learning Engineering, Python, Node.js and Hadoop
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: higoreller29@gmail.com or https://www.linkedin.com/in/higor-eller/
